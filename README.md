@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github.com/marino-multipla/marino-multipla/blob/main/images/dublin-skyline.png" alt=""/></p>
 ### I'm Giacomo
-images/dublin-skyline.jpg
+
 I started some test project on GitHub🚀🚀🚀🚀🚀
 
 <!--
