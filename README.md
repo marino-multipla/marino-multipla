@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github.com/marino-multipla/marino-multipla/blob/main/images/dublin-skyline.png" alt=""/></p>
 
-<h1 align="center">Hi, I'm Giacomo></h1>
+<h1 align="center">Hi, I'm Giacomo</h1>
 
 <h2>I started some test project on GitHub🚀🚀🚀🚀🚀</h2>
 
