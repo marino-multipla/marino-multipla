@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2>I started some test project on GitHub🚀🚀🚀🚀🚀</h2>
+<h2>I started some test projects on GitHub🚀🚀🚀🚀🚀</h2>
 <br>
 
 <!--
