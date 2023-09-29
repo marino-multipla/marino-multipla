@@ -4,7 +4,8 @@
 <br>
 <br>
 
-<h2>I started some test projects on GitHub🚀🚀🚀🚀🚀</h2>
+<h2>I'm playing with many robotic agents in [Area42](https://www.reply.com/en/labs/area-42)
+ laboratory at Lingotto in Turin.</h2>
 <br>
 
 <!--
