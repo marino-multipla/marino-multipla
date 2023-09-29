@@ -1,12 +1,13 @@
-<p><img align="center" src="https://github.com/marino-multipla/marino-multipla/blob/main/images/dublin-skyline.png" alt=""/></p>
+<p><img align="center" src="https://github.com/marino-multipla/marino-multipla/blob/main/images/Area42_Cover.png" alt=""/></p>
 
 <h1 align="center">Hi, I'm Giacomo</h1>
 <br>
 <br>
 
-<h2>I'm playing with many robotic agents in [Area42](https://www.reply.com/en/labs/area-42)
- laboratory at Lingotto in Turin.</h2>
+I'm playing with many robotic agents in  [Area42][area42] lab (Lingotto, Turin, Italy).</h2>
 <br>
+
+[area42]: https://www.reply.com/en/labs/area-42
 
 <!--
 **marino-multipla/marino-multipla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
