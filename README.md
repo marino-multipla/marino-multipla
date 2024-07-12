@@ -4,10 +4,24 @@
 <br>
 <br>
 
-I'm playing with many robotic agents in  [Area42][area42] lab (Lingotto, Turin, Italy).</h2>
+I'm playing with many robotic agents in  [Area42][area42] Reply lab (Lingotto, Turin, Italy).</h2>
 <br>
 
 [area42]: https://www.reply.com/en/labs/area-42
+
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Giacomo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-maccagni/)
+
+---
+## Tools and coding languages that I use
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch.svg" alt="PyTorch.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+---
 
 
 ###  Remember The Zen of Python, by Tim Peters:
